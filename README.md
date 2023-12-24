@@ -1,7 +1,4 @@
 # OVERVIEW
-
-![Responsive Admin panel Design](/assets/imgs/preview.png)
-
 ***
 As a software developer looking for a fullstack role, one thing that you see very often
 on jobs' description is that the candidate should possess good abilities and good eyes
